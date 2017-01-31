@@ -1,6 +1,7 @@
 # face
 Projet innovation S8
 
-Members : Kim, Yang, Yu, Wang
+Members : Taehyun KIM , Yang YANG, Yu LIN, Jun WANG
 
 Professor : C. Hudelot
+
