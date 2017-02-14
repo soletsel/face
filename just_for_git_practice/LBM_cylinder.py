@@ -1,7 +1,7 @@
 
 # 2D flow around a cylinder
 #
-#
+#what it is for？ is this the programme of software developping, but i like it! I find that in fact we can use git and github together with just several commandes!
 
 from numpy import *; from numpy.linalg import *
 import matplotlib.pyplot as plt; from matplotlib import cm
