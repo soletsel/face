@@ -53,4 +53,5 @@ def pca(dataMat,percent=0.99):
     lowDDataMat=newData*n_eigVect                 #低维特征空间的数据
 
     reconMat=(lowDDataMat*n_eigVect.T)+meanVal    #重构数据
-    return lowDDataMat,reconMat
+#    return lowDDataMat,reconMat,meanVal
+    return meanVal,n_eigVect.T
